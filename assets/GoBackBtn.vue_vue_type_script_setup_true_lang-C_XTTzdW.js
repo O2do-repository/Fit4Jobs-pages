@@ -1,0 +1,1 @@
+import{d as r,a9 as s,a as n,c,w as o,g as l,e as i,m as u,k as m}from"./index-Cxs2x4wt.js";const k=r({__name:"GoBackBtn",setup(_){const a=s(),t=()=>{a.back()};return(d,e)=>(n(),c(m,{onClick:t,outlined:"",color:"primary",size:"small",icon:""},{default:o(()=>[l(u,null,{default:o(()=>e[0]||(e[0]=[i("mdi-arrow-left")])),_:1})]),_:1}))}});export{k as _};
