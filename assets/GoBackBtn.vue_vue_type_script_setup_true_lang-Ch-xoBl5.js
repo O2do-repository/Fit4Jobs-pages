@@ -1,0 +1,1 @@
+import{d as r,O as s,a as n,c,w as o,g as l,e as i,m as u,k as m}from"./index-CjgH9eQ6.js";const k=r({__name:"GoBackBtn",setup(_){const t=s(),a=()=>{t.back()};return(d,e)=>(n(),c(m,{onClick:a,outlined:"",color:"primary",size:"small",icon:""},{default:o(()=>[l(u,null,{default:o(()=>e[0]||(e[0]=[i("mdi-arrow-left")])),_:1})]),_:1}))}});export{k as _};
