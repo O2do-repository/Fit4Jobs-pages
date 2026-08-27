@@ -1,1 +1,0 @@
-import{d as r,Q as n,a as s,c,w as a,g as l,e as i,l as u,k as _}from"./index-DZHvAS67.js";const k=r({__name:"GoBackBtn",setup(d){const o=n(),t=()=>{o.back()};return(m,e)=>(s(),c(_,{onClick:t,variant:"outlined",color:"primary",size:"small",icon:""},{default:a(()=>[l(u,null,{default:a(()=>e[0]||(e[0]=[i("mdi-arrow-left")])),_:1})]),_:1}))}});export{k as _};
